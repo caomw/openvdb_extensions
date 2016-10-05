@@ -1,0 +1,21 @@
+[submodule "openvdb"]
+	path = openvdb
+	url = https://github.com/dreamworksanimation/openvdb.git
+[submodule "ext/tbb"]
+	path = ext/tbb
+	url = https://github.com/wjakob/tbb.git
+[submodule "ext/zlib"]
+	path = ext/zlib
+	url = https://github.com/madler/zlib
+[submodule "ext/glfw"]
+	path = ext/glfw
+	url = https://github.com/wjakob/glfw.git
+[submodule "ext/openexr"]
+	path = ext/openexr
+	url = https://github.com/bclucas/openexr.git
+[submodule "ext/alloy"]
+	path = ext/alloy
+	url = https://github.com/bclucas/Alloy-Graphics-Library.git
+[submodule "springls"]
+	path = springls
+	url = https://github.com/bclucas/springls

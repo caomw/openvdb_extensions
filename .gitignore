@@ -1,0 +1,9 @@
+/ext_build/
+/CMakeFiles/
+/CMakeCache.txt
+/openvdb_print
+/openvdb_view
+/Makefile
+/libopenvdb.so
+/libopenvdb_viewer.a
+/cmake_install.cmake
